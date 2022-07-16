@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Fried Chicken Burger",
+        "price":"$34",
+        "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalapeno peppers,red peppers",
+        "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613580/food%20images/food%20images/burger_5_gqruw0.jpg"
+    },{
+        "name":"paneer Tikka Burger",
+        "price":"$24",
+        "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalapeno peppers,red peppers",
+        "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613580/food%20images/food%20images/burger_4_no62ti.jpg"
+    },{
+        "name":"Chicken Classic Cheese Burger",
+        "price":"$32",
+        "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalapeno peppers,red peppers",
+        "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613580/food%20images/food%20images/burger_4_no62ti.jpg"
+    },{
+        "name":"Portobello Mushroom Burgers",
+        "price":"$16",
+        "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalapeno peppers,red peppers",
+        "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613579/food%20images/food%20images/burger_1_pxxf30.jpg"
+    },{
+        "name":"Turkey Burgers",
+        "price":"$34",
+        "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalapeno peppers,red peppers",
+        "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613579/food%20images/food%20images/burger_2_zfdnis.jpg"
+    }
+]

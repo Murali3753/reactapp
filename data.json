@@ -1,0 +1,80 @@
+{
+    "product1": {
+      "id":1,
+      "name":"Tomoto Basil Italian Pizza",
+       "cost":"$420",
+       "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalape nopeppers,red peppers",
+       "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613588/food%20images/food%20images/pizza_3_l3whpv.jpg"
+    },
+  
+    "product2":  {
+      "id":2,
+      "name":"Bombay Pizza",
+      "cost":"$290",
+      "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalape nopeppers,red peppers",
+      "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613586/food%20images/food%20images/pizza_9_hbpxs8.jpg"
+    },
+  
+    "product3":  {
+      "id":3,
+      "name":"Sicilia Pizza",
+      "cost":"$190",
+      "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalape nopeppers,red peppers",
+      "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613584/food%20images/food%20images/pizza_5_bqrclg.jpg"
+      
+    },
+  
+    "product4": {
+      "id":4,
+      " name":"Meat Pizza",
+      "cost":"$210",
+      "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalape nopeppers,red peppers",
+      "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613584/food%20images/food%20images/pizza_7_tjojil.jpg"
+    },
+    
+    "product5": {
+        "id":5,
+        "name":"Hawaiian Pizza",
+          "cost":"$260",
+          "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalape nopeppers,red peppers",
+          "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613584/food%20images/food%20images/pizza_7_tjojil.jpg"
+      },
+
+      "product6": {
+        "id":6,
+        "name":"Detroit Pizza",
+          "cost":"$200",
+          "text":"Dressed with oil, the origanum and garlic cloves shredded minutely.Fresh tomoto sauce Parmesan cheese,Jalape nopeppers,red peppers",
+          "image":"https://res.cloudinary.com/muralivijay/image/upload/v1627613584/food%20images/food%20images/pizza_5_bqrclg.jpg"
+          
+      },
+      
+    "product7": {
+        "id":7,
+        "firstname":"Yuba",
+        "lastname":"Oleander",
+        "email":"oleander@gmail.com"
+      },
+      
+    "product8": {
+        "id":8,
+        "firstname":"Yuba",
+        "lastname":"Oleander",
+        "email":"oleander@gmail.com"
+      },
+      
+    "product9": {
+        "id":9,
+        "firstname":"Yuba",
+        "lastname":"Oleander",
+        "email":"oleander@gmail.com"
+      },
+      
+    "product10": {
+        "id":10,
+        "firstname":"Yuba",
+        "lastname":"Oleander",
+        "email":"oleander@gmail.com"
+      }
+    
+  }
